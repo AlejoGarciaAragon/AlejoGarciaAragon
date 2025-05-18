@@ -40,9 +40,9 @@ I'm a Systems degree student at UNLP, currently halfway through my degree. I am 
 </a>
 
 
-<h2>Github stats:</h2> 
+<h2 align="center">Github Stats :bar_chart:</h2>
 
-[![](https://github-readme-stats.vercel.app/api?username=AlejoGarciaAragon&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/AlejoGarciaAragon)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=AlejoGarciaAragon&theme=material-palenight)](https://github.com/AlejoGarciaAragon)
-</div>
+<p align="center" height="100px" ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejoGarciaAragon&langs_count=10&theme=dark&layout=compact" alt="AlejoGarciaAragon :: Top Lenguajes" /></p>
+
+<p align="center" height="100px" ><img src="https://github-readme-stats.vercel.app/api?username=AlejoGarciaAragon&show_icons=true&theme=dark" alt="AlejoGarciaAragon :: Profile Stats" /></p>
 
