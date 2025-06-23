@@ -49,3 +49,8 @@ I'm a Systems degree student at UNLP, currently halfway through my degree. I am 
 
 <p align="center" height="100px" ><img src="https://github-readme-stats.vercel.app/api?username=AlejoGarciaAragon&show_icons=true&theme=dark" alt="AlejoGarciaAragon :: Profile Stats" /></p>
 
+## 📜 Diplomas and Certificates
+
+- 🎓 [See Diploma JAVA Course Cilsa](https://drive.google.com/file/d/1lh12taZ_o4xJ70ZOwXuXrJ__UFsPO2Os/view?usp=sharing)
+- 📑 [See university analytics]()
+
