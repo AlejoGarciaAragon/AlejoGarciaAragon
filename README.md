@@ -31,6 +31,11 @@ I'm a Systems degree student at UNLP, currently halfway through my degree. I am 
 <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
 </span>
 
+## 📜 Diplomas and Certificates
+
+- 🎓 [See Diploma JAVA Course Cilsa](https://drive.google.com/file/d/1lh12taZ_o4xJ70ZOwXuXrJ__UFsPO2Os/view?usp=sharing)
+- 📑 [See university analytics](https://drive.google.com/file/d/16Ao4YGswP-xwjKb0tmtW_-Sm2TQc8zHT/view?usp=sharing)
+
 ## Check out my Social Media
 <a href = "https://github.com/AlejoGarciaAragon">
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
@@ -48,9 +53,4 @@ I'm a Systems degree student at UNLP, currently halfway through my degree. I am 
 <p align="center" height="100px" ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejoGarciaAragon&langs_count=10&theme=dark&layout=compact" alt="AlejoGarciaAragon :: Top Lenguajes" /></p>
 
 <p align="center" height="100px" ><img src="https://github-readme-stats.vercel.app/api?username=AlejoGarciaAragon&show_icons=true&theme=dark" alt="AlejoGarciaAragon :: Profile Stats" /></p>
-
-## 📜 Diplomas and Certificates
-
-- 🎓 [See Diploma JAVA Course Cilsa](https://drive.google.com/file/d/1lh12taZ_o4xJ70ZOwXuXrJ__UFsPO2Os/view?usp=sharing)
-- 📑 [See university analytics]()
 
